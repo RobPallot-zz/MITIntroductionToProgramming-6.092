@@ -1,5 +1,5 @@
 <html>
-<header>MIT Introduction To Programming - 6.092</header><br /><br />
+<header><h1>MIT Introduction To Programming - 6.092</h1></header><br /><br />
 <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/lecture-notes">Lecture Notes</a><br />
 <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/assignments">Assignments (no solutions)</a><br /><br />
 <h2>Course Description</h2><br /><br />
